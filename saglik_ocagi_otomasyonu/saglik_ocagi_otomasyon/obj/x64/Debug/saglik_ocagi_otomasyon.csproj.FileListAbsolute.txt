@@ -1,0 +1,29 @@
+C:\Users\Güçhan\Desktop\saglik_ocagi_otomasyon\saglik_ocagi_otomasyon\bin\x64\Debug\saglik_ocagi_otomasyon.exe.config
+C:\Users\Güçhan\Desktop\saglik_ocagi_otomasyon\saglik_ocagi_otomasyon\bin\x64\Debug\saglik_ocagi_otomasyon.exe
+C:\Users\Güçhan\Desktop\saglik_ocagi_otomasyon\saglik_ocagi_otomasyon\bin\x64\Debug\saglik_ocagi_otomasyon.pdb
+C:\Users\Güçhan\Desktop\saglik_ocagi_otomasyon\saglik_ocagi_otomasyon\obj\x64\Debug\saglik_ocagi_otomasyon.csproj.AssemblyReference.cache
+C:\Users\Güçhan\Desktop\saglik_ocagi_otomasyon\saglik_ocagi_otomasyon\obj\x64\Debug\saglik_ocagi_otomasyon.csproj.SuggestedBindingRedirects.cache
+C:\Users\Güçhan\Desktop\saglik_ocagi_otomasyon\saglik_ocagi_otomasyon\obj\x64\Debug\saglik_ocagi_otomasyon.Form1.resources
+C:\Users\Güçhan\Desktop\saglik_ocagi_otomasyon\saglik_ocagi_otomasyon\obj\x64\Debug\saglik_ocagi_otomasyon.doktorGirisi.resources
+C:\Users\Güçhan\Desktop\saglik_ocagi_otomasyon\saglik_ocagi_otomasyon\obj\x64\Debug\saglik_ocagi_otomasyon.hastaListesi.resources
+C:\Users\Güçhan\Desktop\saglik_ocagi_otomasyon\saglik_ocagi_otomasyon\obj\x64\Debug\saglik_ocagi_otomasyon.hastaGiris.resources
+C:\Users\Güçhan\Desktop\saglik_ocagi_otomasyon\saglik_ocagi_otomasyon\obj\x64\Debug\saglik_ocagi_otomasyon.doktorListe.resources
+C:\Users\Güçhan\Desktop\saglik_ocagi_otomasyon\saglik_ocagi_otomasyon\obj\x64\Debug\saglik_ocagi_otomasyon.Properties.Resources.resources
+C:\Users\Güçhan\Desktop\saglik_ocagi_otomasyon\saglik_ocagi_otomasyon\obj\x64\Debug\saglik_ocagi_otomasyon.csproj.GenerateResource.cache
+C:\Users\Güçhan\Desktop\saglik_ocagi_otomasyon\saglik_ocagi_otomasyon\obj\x64\Debug\saglik_ocagi_otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\Güçhan\Desktop\saglik_ocagi_otomasyon\saglik_ocagi_otomasyon\obj\x64\Debug\saglik_ocagi_otomasyon.exe
+C:\Users\Güçhan\Desktop\saglik_ocagi_otomasyon\saglik_ocagi_otomasyon\obj\x64\Debug\saglik_ocagi_otomasyon.pdb
+C:\Users\Güçhan\Desktop\kurthan\Yeni klasör (3)\saglik_ocagi_otomasyon\saglik_ocagi_otomasyon\bin\x64\Debug\saglik_ocagi_otomasyon.exe.config
+C:\Users\Güçhan\Desktop\kurthan\Yeni klasör (3)\saglik_ocagi_otomasyon\saglik_ocagi_otomasyon\bin\x64\Debug\saglik_ocagi_otomasyon.exe
+C:\Users\Güçhan\Desktop\kurthan\Yeni klasör (3)\saglik_ocagi_otomasyon\saglik_ocagi_otomasyon\bin\x64\Debug\saglik_ocagi_otomasyon.pdb
+C:\Users\Güçhan\Desktop\kurthan\Yeni klasör (3)\saglik_ocagi_otomasyon\saglik_ocagi_otomasyon\obj\x64\Debug\saglik_ocagi_otomasyon.csproj.AssemblyReference.cache
+C:\Users\Güçhan\Desktop\kurthan\Yeni klasör (3)\saglik_ocagi_otomasyon\saglik_ocagi_otomasyon\obj\x64\Debug\saglik_ocagi_otomasyon.Form1.resources
+C:\Users\Güçhan\Desktop\kurthan\Yeni klasör (3)\saglik_ocagi_otomasyon\saglik_ocagi_otomasyon\obj\x64\Debug\saglik_ocagi_otomasyon.doktorGirisi.resources
+C:\Users\Güçhan\Desktop\kurthan\Yeni klasör (3)\saglik_ocagi_otomasyon\saglik_ocagi_otomasyon\obj\x64\Debug\saglik_ocagi_otomasyon.hastaListesi.resources
+C:\Users\Güçhan\Desktop\kurthan\Yeni klasör (3)\saglik_ocagi_otomasyon\saglik_ocagi_otomasyon\obj\x64\Debug\saglik_ocagi_otomasyon.hastaGiris.resources
+C:\Users\Güçhan\Desktop\kurthan\Yeni klasör (3)\saglik_ocagi_otomasyon\saglik_ocagi_otomasyon\obj\x64\Debug\saglik_ocagi_otomasyon.doktorListe.resources
+C:\Users\Güçhan\Desktop\kurthan\Yeni klasör (3)\saglik_ocagi_otomasyon\saglik_ocagi_otomasyon\obj\x64\Debug\saglik_ocagi_otomasyon.Properties.Resources.resources
+C:\Users\Güçhan\Desktop\kurthan\Yeni klasör (3)\saglik_ocagi_otomasyon\saglik_ocagi_otomasyon\obj\x64\Debug\saglik_ocagi_otomasyon.csproj.GenerateResource.cache
+C:\Users\Güçhan\Desktop\kurthan\Yeni klasör (3)\saglik_ocagi_otomasyon\saglik_ocagi_otomasyon\obj\x64\Debug\saglik_ocagi_otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\Güçhan\Desktop\kurthan\Yeni klasör (3)\saglik_ocagi_otomasyon\saglik_ocagi_otomasyon\obj\x64\Debug\saglik_ocagi_otomasyon.exe
+C:\Users\Güçhan\Desktop\kurthan\Yeni klasör (3)\saglik_ocagi_otomasyon\saglik_ocagi_otomasyon\obj\x64\Debug\saglik_ocagi_otomasyon.pdb
